@@ -4,3 +4,4 @@
 - [Michal Bielawski](https://github.com/michalbielawski)
 - [Jakub Rabęcki](https://github.com/jrabecki)
 - [Ola P](https://github.com/noriiOla)
+- [Adistefer](https://github.com/Adistefer)
